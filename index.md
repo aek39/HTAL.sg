@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Hongshi technology air Laboratory
+## 红石科技空中实验室/红站
 
-You can use the [editor on GitHub](https://github.com/aek39/HTAL.sg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  服务器msls1441.com的几位红石肝帝(SuspendedGlass，ha23456……)建设，以及几位热爱MC的大佬(Casteldr,Jast……)所赞助。
+  由于红站面向全服务器的红石爱好者，所以不给予封印，也不允许其他玩家擅自封印(我虽然不会拿你怎么样，但不知道服主会怎么ban了^_^)
+  实验区可以无限扩展，如有需要，请自行使用石英半砖扩建，感谢配合！      ————SuspendedGlass
+### 服务器
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这你不可以问我哦，去[服务器论坛](bbs.msls1441.com)吧！
 
-### Markdown
+### 加盟
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  如果你想加盟，亲联系SuspendedGlass或ha23456, /tell 他:
+    ## Hongshi technology air Laboratory
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aek39/HTAL.sg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 寄语
+    &%$#@%$#$%#@#$$%$##$#%#$%#$#@#$%$&#$%#$&#$%&#@$&
